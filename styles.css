@@ -1974,6 +1974,16 @@ body .hero .trust-strip .trust-item {
   text-align: center;
 }
 
+body .hero .trust-strip .trust-price {
+  box-sizing: border-box;
+  width: max-content;
+  max-width: 100%;
+  justify-self: center;
+  padding: 12px;
+  margin: 0;
+  white-space: nowrap;
+}
+
 body .service-body .price-tag {
   display: flex;
   width: fit-content;
