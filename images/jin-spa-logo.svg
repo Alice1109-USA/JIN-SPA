@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 258 72" role="img" aria-labelledby="title">
+  <title id="title">JIN-SPA</title>
+  <g transform="translate(3 3)">
+    <path d="M29 60V29" fill="none" stroke="#25372f" stroke-linecap="round" stroke-width="3"/>
+    <path d="M29 45C19 45 12 39 11 30c11-1 18 5 18 15Z" fill="#758568"/>
+    <path d="M29 35c0-11 8-19 19-20 1 12-6 20-19 20Z" fill="#25372f"/>
+    <path d="M29 54c-7 0-13-5-14-12 8 0 13 4 14 12Z" fill="#c0a66e"/>
+    <path d="M29 29c-1-5-4-9-9-13" fill="none" stroke="#25372f" stroke-linecap="round" stroke-width="2"/>
+  </g>
+  <text x="68" y="51" fill="#25372f" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="600" letter-spacing="1.2">JIN-SPA</text>
+</svg>

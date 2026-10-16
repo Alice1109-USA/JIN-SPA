@@ -1,20 +1,23 @@
-# Nature Beauty SPA
+# JIN-SPA
 
-Static GitHub Pages site for Natural Beauty Spa in Bellevue, WA.
+Static HTML/CSS website for JIN-SPA in Bellevue, Washington.
 
-## Included
+## Pages
 
-- Responsive HTML/CSS pages for the core site architecture
-- Shared navigation and internal links
-- Per-page title, meta description, canonical URL, and semantic heading structure
-- LocalBusiness/DaySpa structured data on the home and contact pages
-- `sitemap.xml` and `robots.txt`
-- Square booking links, phone, email, address, hours, and service pricing
+- `index.html` is the Bellevue service guide and homepage.
+- `services.html` lists the service families and treatment pages.
+- Individual treatment pages retain their service descriptions and listed pricing.
+- `spa-pricing-bellevue-wa.html`, `about.html`, `contact.html`, and `privacy-policy.html` provide supporting information.
 
-## GitHub Pages
+## Local preview
 
-In the repository settings, open **Pages**, select **Deploy from a branch**, choose `main` and `/ (root)`, then save. Update the canonical URLs in the HTML files and `sitemap.xml` if the GitHub username or custom domain changes.
+Serve the repository root with any static HTTP server, then open `index.html`.
 
-## Content and assets
+## Confirmed business details
 
-The implementation uses the public site architecture and business details as a starting point. Replace copy, images, logo, and claims with assets you own or have permission to use before publishing a production copy.
+- JIN-SPA
+- 15935 NE 8th St Ste B207, Bellevue, WA 98008
+- (929) 287-8026
+- Daily, 9:00 AM–10:00 PM
+
+The site uses the Eastside Field Guide design direction documented in `DESIGN.md`. Existing service and pricing content should be checked with the business before publication.
