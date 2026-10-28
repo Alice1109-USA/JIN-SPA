@@ -17,7 +17,7 @@ Serve the repository root with any static HTTP server, then open `index.html`.
 
 - JIN-SPA
 - 15935 NE 8th St Ste B207, Bellevue, WA 98008
-- (929) 287-8026
+- (425) 395-9913
 - Daily, 9:00 AM–10:00 PM
 
 The site uses the Eastside Field Guide design direction documented in `DESIGN.md`. Existing service and pricing content should be checked with the business before publication.

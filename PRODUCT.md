@@ -18,7 +18,7 @@ The JIN-SPA website presents the business, its services, location, hours, pricin
 
 - The existing project is a static HTML/CSS website.
 - The static website includes a service-led homepage, service directory, service details, pricing, about, and contact pages.
-- The primary contact action is a phone call to (929) 287-8026.
+- The primary contact action is a phone call to (425) 395-9913.
 - Do not add online booking links or buttons.
 - Confirmed business name: JIN-SPA.
 - Confirmed address: 15935 NE 8th St Ste B207, Bellevue, WA 98008.
